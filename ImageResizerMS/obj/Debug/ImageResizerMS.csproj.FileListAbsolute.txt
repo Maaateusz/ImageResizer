@@ -1,0 +1,15 @@
+C:\Users\Mateusz\source\repos\ImageResizerMS\ImageResizerMS\bin\Debug\ImageResizerMS.exe.config
+C:\Users\Mateusz\source\repos\ImageResizerMS\ImageResizerMS\bin\Debug\ImageResizerMS.exe
+C:\Users\Mateusz\source\repos\ImageResizerMS\ImageResizerMS\bin\Debug\ImageResizerMS.pdb
+C:\Users\Mateusz\source\repos\ImageResizerMS\ImageResizerMS\obj\Debug\ImageResizerMS.csprojAssemblyReference.cache
+C:\Users\Mateusz\source\repos\ImageResizerMS\ImageResizerMS\obj\Debug\MainWindow.g.cs
+C:\Users\Mateusz\source\repos\ImageResizerMS\ImageResizerMS\obj\Debug\App.g.cs
+C:\Users\Mateusz\source\repos\ImageResizerMS\ImageResizerMS\obj\Debug\ImageResizerMS_MarkupCompile.cache
+C:\Users\Mateusz\source\repos\ImageResizerMS\ImageResizerMS\obj\Debug\ImageResizerMS_MarkupCompile.lref
+C:\Users\Mateusz\source\repos\ImageResizerMS\ImageResizerMS\obj\Debug\MainWindow.baml
+C:\Users\Mateusz\source\repos\ImageResizerMS\ImageResizerMS\obj\Debug\ImageResizerMS.g.resources
+C:\Users\Mateusz\source\repos\ImageResizerMS\ImageResizerMS\obj\Debug\ImageResizerMS.Properties.Resources.resources
+C:\Users\Mateusz\source\repos\ImageResizerMS\ImageResizerMS\obj\Debug\ImageResizerMS.csproj.GenerateResource.cache
+C:\Users\Mateusz\source\repos\ImageResizerMS\ImageResizerMS\obj\Debug\ImageResizerMS.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\source\repos\ImageResizerMS\ImageResizerMS\obj\Debug\ImageResizerMS.exe
+C:\Users\Mateusz\source\repos\ImageResizerMS\ImageResizerMS\obj\Debug\ImageResizerMS.pdb
